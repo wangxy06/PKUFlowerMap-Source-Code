@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/map">
+        <file>pku_map.jpg</file>
+    </qresource>
+    <qresource prefix="/flowerdata"/>
+    <qresource prefix="/\flower"/>
+    <qresource prefix="/logs"/>
+    <qresource prefix="/image">
+        <file>background1.png</file>
+        <file>coverpage.png</file>
+        <file>firstpage.png</file>
+        <file>background2.png</file>
+    </qresource>
+    <qresource prefix="/imag"/>
+</RCC>

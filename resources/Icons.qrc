@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/flowericon">
+        <file>Icon.png</file>
+        <file>Icon2.png</file>
+        <file>petal1.png</file>
+        <file>petal2.png</file>
+        <file>petal3.png</file>
+        <file>petal4.png</file>
+        <file>petal5.png</file>
+    </qresource>
+    <qresource prefix="/flowerinfo"/>
+</RCC>

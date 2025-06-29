@@ -1,1 +1,2 @@
-# PKUFlowerMap-Source-Code
+# 燕园花册 by不想起名队
+北京大学2025年春季 程序设计实习课程大作业
